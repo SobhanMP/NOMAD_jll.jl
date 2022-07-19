@@ -1,0 +1,252 @@
+[[NOMAD]]
+arch = "aarch64"
+git-tree-sha1 = "4a427789edfce454b5939d811d0a028559dafb6c"
+os = "macos"
+
+    [[NOMAD.download]]
+    sha256 = "dbd0d8d6ce4d1e1e4f4d2441e4dc541a293076c4c0045a9bf14792ba0533b802"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.aarch64-apple-darwin.tar.gz"
+[[NOMAD]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9842d4155519b1c93a0cf9ed0df600bbdf6e45a0"
+libc = "glibc"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "45ec8365eab20f6408603e6405b0111c267d28c03bb68338fbf05e347f9e6d91"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[NOMAD]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fcbb6bc77fe06049fe01574459a3d24c7fd0b11f"
+libc = "glibc"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "fc1701af161a5c61f8d613cb62434216fd5df6b9b2eecb2c4591f4a734e43c8b"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[NOMAD]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7bf9a0a6100d83e35a59e4dd9cd7054a96734721"
+libc = "musl"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "fd70b4e0d91ef06b98a9d5b921ab1377bf079e843db60a1d424debe08475f779"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.aarch64-linux-musl-cxx03.tar.gz"
+[[NOMAD]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "67525d12f41cf4754b84792cfd22fedc9d79833e"
+libc = "musl"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "3a84b56484913185ba7d55f1707ff2c54ad3b30ed17d14bf41d7a0d3e5fb27e8"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.aarch64-linux-musl-cxx11.tar.gz"
+[[NOMAD]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4e70179e3d5c6e01bf2171f2a020c88b40288edf"
+libc = "glibc"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "e5194e4d132544d4fcbc5432be152fe67cd2653538212c24afdf42a677253d00"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[NOMAD]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8bea91181f5f9a223b34b39d4b6aaa3c12884023"
+libc = "glibc"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "d3abf77cb2f75be54c7cf076975044772622cc0753e5c844d7038ecd9d697d8e"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[NOMAD]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ca8b3373a7e17d1229e71cc133f161c15e5a8c44"
+libc = "musl"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "e1e399556c19697c6001ad78e8663e305fba9d4910249df469a42f92828d5d0a"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[NOMAD]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a2b853ee3231efbf67af7fac8169b9b58b5bf9b5"
+libc = "musl"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "f71051ee0a0efe95a7e272c8c18278adbefbda58324525ddc5157e01a3f974ea"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[NOMAD]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8855e9d7a4c2950c34ebf7901513e73e46423785"
+libc = "glibc"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "f0e7460abc3dd1d67d07afb9048f9e082cb6f1437f2cb006e9110d3aafb1e30c"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[NOMAD]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5a33804365c16b72db5ac85bad3e3d4d23db0b92"
+libc = "glibc"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "84fd47994d811ee99c39d7327a3a2ace1f794130f0582f42681bb669dec09137"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[NOMAD]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c7e4985ac1544a6922c67c71f821da07dac1b1b1"
+libc = "musl"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "60255e546b0f1dadaaab01b3f38e5e45fe3bac74d545e11b1ee40765010d786b"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[NOMAD]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ecf132fb58076772f264689460d5500ba5ff6b75"
+libc = "musl"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "b55cb65784f98a027e505321ed2f08cf6f3365cdec85ead885b40294f3d03cb8"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[NOMAD]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bb1278b54e72a9f66b17e2a085f23d3f6c8f40f5"
+libc = "glibc"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "866bc9787eb084b2ff1df004681a98b223cd3f987a4612fee7b4b4936809a0f2"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.i686-linux-gnu-cxx03.tar.gz"
+[[NOMAD]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3242483aacc1fe3bb6af1a69b88b80294021791f"
+libc = "glibc"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "e2649ddab9683b94d31d0929d67b86a002fb94d8b66c9123dab738310d84bc5c"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.i686-linux-gnu-cxx11.tar.gz"
+[[NOMAD]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2978a748c49a4508f38b55c4d9ba5035ccb7ff19"
+libc = "musl"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "e761865b94040c3001badd3d9b90c29773d2c1143db12ceaca1358ded0180b6a"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.i686-linux-musl-cxx03.tar.gz"
+[[NOMAD]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1cedf6a8ffdf01e3decafb0971da50142a377b28"
+libc = "musl"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "6729c8f58e5249b66865d8888224693aa1ce4589d5f44556eafbb9c9850e21d2"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.i686-linux-musl-cxx11.tar.gz"
+[[NOMAD]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5b525249876087597a1db3cbc545e5da2634cbd7"
+libc = "glibc"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "547d10ff674d2a02d6a89c535212bf095c06e5213e5f50da1b2e270be493eafa"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[NOMAD]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1c9e07fefefef0a59a08cbc747c6602aac4367ac"
+libc = "glibc"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "93db396c86a98b92fd8d2ff3424e94ac836524e11222ef23b99a59fcaafaeab4"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[NOMAD]]
+arch = "x86_64"
+git-tree-sha1 = "bc85a27c2da82316daaedfbb58759522d5ad6efe"
+os = "macos"
+
+    [[NOMAD.download]]
+    sha256 = "5a7a6de511eb1a3b57ec255b5a3ffc1c70a1c3ade5657d71e340d55e5cde2ddf"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.x86_64-apple-darwin.tar.gz"
+[[NOMAD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "65c32435436391af90145122347b191a514fee69"
+libc = "glibc"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "ab1031d7f20905affc2b97cd8298673384332a59d34189b5ed61636508deba05"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[NOMAD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c61f79c7932fc78c80d78737038b7589ff81c79b"
+libc = "glibc"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "ed4e113990e6d115329d03ff45f8541a02a62420ee8a87c27fa922c1cc0e3467"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[NOMAD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aa8af546ee020672576cec1e3467a7de915cd8c7"
+libc = "musl"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "ddab86d5643e37fe78969668e9b8232bcd05938d0e00ecd9363b0134c7e3eb4a"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.x86_64-linux-musl-cxx03.tar.gz"
+[[NOMAD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "858ff9d0207a825b61b4eb8dd65b48708d634bff"
+libc = "musl"
+os = "linux"
+
+    [[NOMAD.download]]
+    sha256 = "62bd8b1cf351e1c49bd3624582d25705de095049e1d72ace162702b0a43f52be"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.x86_64-linux-musl-cxx11.tar.gz"
+[[NOMAD]]
+arch = "x86_64"
+git-tree-sha1 = "93a899c7da9af807fc0f39d327722a6e7f8294b9"
+os = "freebsd"
+
+    [[NOMAD.download]]
+    sha256 = "bfd63151a09f5c603dd3331b5a0902feef5188ba5f2fab11b42131e737cb3445"
+    url = "https://github.com/SobhanMP/NOMAD_jll.jl/releases/download/NOMAD-v4.2.0+0/NOMAD.v4.2.0.x86_64-unknown-freebsd.tar.gz"
